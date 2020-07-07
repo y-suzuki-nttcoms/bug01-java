@@ -10,7 +10,7 @@ public class BugA {
 	            // break文を記述していない。
 	        case 1:
 	            System.out.println("ケース1。");
-	            break;
+	            // break文を記述していない。
 	        case 2:
 	            System.out.println("ケース2。");
 	            break;
